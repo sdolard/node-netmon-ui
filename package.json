@@ -15,12 +15,12 @@
 	},
 	"dependencies": {
 		"vows": "0.6.x",
-		"posix-getopt": "0.0.x",
+		"commander": "1.1.x",
 		"socket.io-client": "0.9.x",
-		"jsrevival": "0.0.x",
+		"jsrevival": "0.1.x",
 		"ansi": "0.1.x"
 	},
-	"optionalDependencies": {}
+	"devDependencies": {}
 }
 
 
